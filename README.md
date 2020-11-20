@@ -1,3 +1,1 @@
-# Website
-
-![website](https://clck.ru/Rxcyo)
+[Web page view](https://clck.ru/S2qxt)
