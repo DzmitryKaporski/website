@@ -94,6 +94,12 @@ body {
     }
 }
 
+@media (max-width: 300px) {
+    .front-page-section__box-header-desk-menu {
+        justify-content: space-between;
+    }
+}
+
 .front-page-section__preview {
     margin-left: 10%;
     margin-top: 310px;
