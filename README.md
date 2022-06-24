@@ -1,1 +1,1 @@
-[Web page view](https://clck.ru/S2qxt)
+[deploy: website](https://clck.ru/rdF3T)
